@@ -10,7 +10,7 @@ namespace Tyuiu.KomarovMA.Sprint0.Task1.V0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World");
+            Console.WriteLine("Hello World");
             string name = "Максим";
             int age = 18;
             Console.WriteLine("Привет, меня зовут " + name + "и мне " + age + "лет");
